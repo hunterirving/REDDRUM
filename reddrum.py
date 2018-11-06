@@ -63,3 +63,9 @@ while True:
             print("note off at index " + str(i))
         if((deltas[4] == 0b01 or deltas[4] == 0b11) and (deltas[5] == 0b01 or deltas[5] == 0b11)):
             quit()
+    prevleftmid = leftmid
+    prevrightmid = rightmid
+    prevleftside = leftside
+    prevrightside = rightside
+    prevselect = select
+    prevstart = start
