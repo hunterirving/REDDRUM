@@ -1,2 +1,2 @@
 # REDDRUM
-use a Taiko No Tatsujin (PS2) controller as a MIDI drumpad
+use a Taiko no Tatsujin (PS2) controller as a MIDI drumpad
