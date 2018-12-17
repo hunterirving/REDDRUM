@@ -1,5 +1,6 @@
 # REDDRUM
 use a Taiko no Tatsujin (PS2) controller as a MIDI drumpad
+<br>see it in action <a href="https://twitter.com/thehunterirving/status/1073764890228142080">here</a>!
 
 <img src="Don.png"></img>
 
